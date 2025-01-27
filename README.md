@@ -1,2 +1,2 @@
 # amoz-mexican-grill
-Open-source Mexican restaurant franchise that my dad owns
+Developing a restaurant to roast my dad on a Mexican grill. But it's fine, he can take it. He's strong.
